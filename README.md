@@ -1,17 +1,46 @@
-<h1 align="center">Vi Đức Hùng</h1>
-- My website [HungTricker.Xyz](HungTricker.Xyz)
-<h3 align="left">Contact me:</h3>
-<div> 
-  <a href="https://youtube.com/channel/UCHCSkxvbhYadbkyrWa25GOg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- huy hiệu&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/viduchung.06" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for -the-badge&logo=facebook" target="_blank"></a>
-  <a href="https://www.t.me/viduchung06" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the -badge&logo=telegram" target="_blank"></a>
-  <a href=" viduchung.offical@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" mục tiêu = "_blank"></a>
-  <a href=" https://www.hungtricker.xyz/p/contact.html "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the -badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: 'bug'
+assignees: ''
 
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
-<p align="left"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos /google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank " rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40 "/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/ devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https:// www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt= "trăn" width="40" height="40"/></a> </p>com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40"/></a> </p>com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40"/></a> </p>trăn" width="40" height="40"/></a> </p>trăn" width="40" height="40"/></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ViDucHung2006&show_icons=true&locale=en" alt="Vi Đức Hùng" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViDucHung2006&show_icons=true&locale=en&layout=compact" alt="Vi Đức Hùng" /></p>
-<br><a href="https://github.com/ViDucHung2006"><img alt="ViDucHung2006 Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=ViDucHung2006&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViDucHung2006&label=Profile%20views&color=0e75b6&style=flat" alt="Vi Đức Hùng" /> </p>
+title: ""
+labels: "bug"
+assignees: ""
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+@@ -24,15 +24,17 @@ A clear and concise description of what you expected to happen.
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+- OS: [e.g. iOS]
+- Browser [e.g. chrome, safari]
+- Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+- Device: [e.g. iPhone6]
+- OS: [e.g. iOS8.1]
+- Browser [e.g. stock browser, safari]
+- Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
